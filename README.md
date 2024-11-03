@@ -25,7 +25,7 @@ This is Team Boulders, working on the Grammerhub Entertainment Web App! The team
 
 The plan is to create a fully-functional Netflix mock-up based on a provided Figma file. The Figma file depicts mockups for desktop, tablet, and mobile view.
 
-![desktop login](https://github.com/grammerjam/team-boulders/blob/CU-86b2jjdkc_Project-documentation-on-github_Carmen-Peterson/P1/frontend/Project%20Brief/desktop-login-figma.png)
+![desktop login](https://github.com/grammerjam/team-boulders/blob/CU-86b2jjdkc_Project-documentation-on-github_Carmen-Peterson/P1/frontend/Project%20Brief/desktop-login-figma.png width="48")
 ![desktop options](https://github.com/grammerjam/team-boulders/blob/CU-86b2jjdkc_Project-documentation-on-github_Carmen-Peterson/P1/frontend/Project%20Brief/desktop-options-figma.png)
 ![desktop homepage](https://github.com/grammerjam/team-boulders/blob/CU-86b2jjdkc_Project-documentation-on-github_Carmen-Peterson/P1/frontend/Project%20Brief/desktophome-figma.png)
 ![mobile figma file](https://github.com/grammerjam/team-boulders/blob/CU-86b2jjdkc_Project-documentation-on-github_Carmen-Peterson/P1/frontend/Project%20Brief/mobile-figma.png)
