@@ -25,10 +25,10 @@ This is Team Boulders, working on the Grammerhub Entertainment Web App! The team
 
 The plan is to create a fully-functional Netflix mock-up based on a provided Figma file. The Figma file depicts mockups for desktop, tablet, and mobile view.
 
-![](P1/frontend/Project Brief/desktop-login-figma.png)
-![](P1/frontend/Project Brief/desktop-options-figma.png)
-![](P1/frontend/Project Brief/desktophome-figma.png)
-![](P1/frontend/Project Brief/mobile-figma.png)
+![desktop login](P1/frontend/Project Brief/desktop-login-figma.png)
+![desktop options](P1/frontend/Project Brief/desktop-options-figma.png)
+![desktop homepage](P1/frontend/Project Brief/desktophome-figma.png)
+![mobile figma file](P1/frontend/Project Brief/mobile-figma.png)
 
 Per the challenge guidelines:
 
@@ -42,9 +42,7 @@ Per the challenge guidelines:
 > - **Bonus**: Build this project as a full-stack application
 > - **Bonus**: If you're building a full-stack app, we provide authentication screen (sign-up/login) designs if you'd like to create an auth flow
 
-### Screenshot
-
-![](./screenshot.jpg)
+### Screensho
 
 As the frontend came together, we established a UI that closely resembled the Figma files.
 
@@ -72,7 +70,7 @@ The current deadline is set to 12/23/24. If there are more features that we feel
 
 ### Useful resources
 
-- [Git basics] (https://youtu.be/9gJtMH7vBe8)
+- [Git basics](https://youtu.be/9gJtMH7vBe8) - A general guide on how to use Git for total beginners.
 - [Setting Up the Knex file](https://www.youtube.com/watch?v=5iqv41-w39c) - This provided a stronger understanding of what was already accomplished before the current Team Boulders took over the code.
 - [Relational Databases](https://youtu.be/fXndSzAL1Nc?si=EIIShizneqRGV6Kd) - A primer on how relational DBs work.
 
