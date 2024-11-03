@@ -46,6 +46,9 @@ Per the challenge guidelines:
 
 As the frontend came together, we established a UI that closely resembled the Figma files.
 
+![nextjs login](https://github.com/grammerjam/team-boulders/blob/CU-86b2jjdkc_Project-documentation-on-github_Carmen-Peterson/P1/frontend/Project%20Brief/nextjs-login.png)
+![nextjs sign up](https://github.com/grammerjam/team-boulders/blob/CU-86b2jjdkc_Project-documentation-on-github_Carmen-Peterson/P1/frontend/Project%20Brief/nextjs-signup.png)
+
 ### Links
 
 The Netlify link will be posted here upon completion.
