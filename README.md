@@ -25,10 +25,10 @@ This is Team Boulders, working on the Grammerhub Entertainment Web App! The team
 
 The plan is to create a fully-functional Netflix mock-up based on a provided Figma file. The Figma file depicts mockups for desktop, tablet, and mobile view.
 
-![](./P1/frontend/Project Brief/desktop-login-figma.png)
-![](./P1/frontend/Project Brief/desktop-options-figma.png)
-![](./P1/frontend/Project Brief/desktophome-figma.png)
-![](./P1/frontend/Project Brief/mobile-figma.png)
+![](P1/frontend/Project Brief/desktop-login-figma.png)
+![](P1/frontend/Project Brief/desktop-options-figma.png)
+![](P1/frontend/Project Brief/desktophome-figma.png)
+![](P1/frontend/Project Brief/mobile-figma.png)
 
 Per the challenge guidelines:
 
