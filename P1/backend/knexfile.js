@@ -1,5 +1,7 @@
+// Import Environment Variables
 require("dotenv").config();
 
+// Configure Knex to use MySQL
 module.exports = {
   development: {
     client: "mysql2",
@@ -8,7 +10,10 @@ module.exports = {
       database: process.env.DB_NAME,
       user: process.env.DB_USER,
       password: process.env.DB_PASSWORD,
-      charset: "utf8",
+      charset: process.env.DB_CHARSET,
+    },
+    migrations: {
+      directory: "./db/migrations",
     },
   },
 };

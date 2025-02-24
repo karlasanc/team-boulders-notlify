@@ -1,5 +1,6 @@
+// Create Content Table
 exports.up = function (knex) {
-  return knex.schema.createTable("contents", (table) => {
+  return knex.schema.createTable("content", (table) => {
     table.integer("id").unsigned().primary();
     table.string("title", 255).notNullable();
     table.integer("year", 4).notNullable();
@@ -11,5 +12,5 @@ exports.up = function (knex) {
 };
 
 exports.down = function (knex) {
-  return knex.schema.dropTable("contents");
+  return knex.schema.dropTable("content");
 };
